@@ -45,7 +45,7 @@
   }
 
   body {
-    @apply bg-redpluto-dark text-foreground font-inter scrollbar-styled;
+    @apply bg-redpluto-dark text-foreground scrollbar-styled;
     font-family: 'Inter', sans-serif;
   }
 
